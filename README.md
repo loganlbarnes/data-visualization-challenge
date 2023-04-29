@@ -1,2 +1,2 @@
-# data_visualization_challenge
+# data-visualization-challenge
 UCI Data Analytics Module 5 Challenge
